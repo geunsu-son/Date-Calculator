@@ -18,7 +18,7 @@ st.set_page_config(
     page_title="Date Calculator",
     page_icon="🗓",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
 )
 
 with st.sidebar:
@@ -28,7 +28,6 @@ with st.sidebar:
     📞 Tel. 010-4430-2279  
     📩 E-mail. [gnsu0705@gmail.com](gnsu0705@gmail.com)  
     💻 Blog. [Super-Son](https://super-son.tistory.com/)  
-    😎 Resume. [Super-Son](https://super-son-resume.streamlit.app)
     """
     )
 
